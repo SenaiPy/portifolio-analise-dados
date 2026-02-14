@@ -17,3 +17,5 @@ Dashboard interativo para análises diversas de faturamento por meses, anos, pro
 
 ## Final_qtd_vendas
 Dashboard interativo para análises diversas de quantidade total de vendas por meses, anos, produtos e vendedores. O dashboard também permite visualizar faturamento total e comparação de faturamento por formas de pagamento.
+
+![vendas](final_qtd_vendas.png)
