@@ -30,3 +30,4 @@ O dashboard final permite:
 
 ## 📺 Preview
 ![Dashboard Final](imagens/final_faturamento.png)
+![Dashboard Final](imagens/final_qtd_vendas.png)
