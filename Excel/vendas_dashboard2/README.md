@@ -29,3 +29,4 @@ O dashboard final permite:
 - Análise de total de vendas por ano, produto e mês
 
 ## 📺 Preview
+![Dashboard Final](imagens/final_faturamento.png)
