@@ -1,4 +1,4 @@
-# Portifólio de Análise de Dados
+# Portifólios para Análise de Dados
 
 ## 📊 Excel
 Projetos desenvolvidos utilizando Excel para análise e dashboards interativos
