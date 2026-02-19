@@ -11,11 +11,11 @@ Tabelas dinâmicas criadas à partir da tabela **Base_de_Vendas**. Na parte supe
 ![imagem2](passo2.png)
 
 ## Final_faturamento 
-Dashboard interativo para análises diversas de faturamento por meses, anos, produtos e vendedores. O dashboard também permite visualizar a quantidade total de vendas, faturamento total e comparação de faturamento por formas de pagamento.
+Dashboard interativo para análises diversas de faturamento por mes, ano, produto e vendedor. O dashboard também permite visualizar a quantidade total de vendas, faturamento total e comparação de faturamento por formas de pagamento.
 
 ![faturamento](final_faturamento.png)
 
 ## Final_qtd_vendas
-Dashboard interativo para análises diversas de quantidade total de vendas por meses, anos, produtos e vendedores. O dashboard também permite visualizar faturamento total e comparação de faturamento por formas de pagamento.
+Dashboard interativo para análises diversas de quantidade total de vendas por mes, ano, produto e vendedor. O dashboard também permite visualizar faturamento total e comparação de faturamento por formas de pagamento.
 
 ![vendas](final_qtd_vendas.png)
