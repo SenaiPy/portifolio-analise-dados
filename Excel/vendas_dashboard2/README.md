@@ -1,5 +1,10 @@
 # Dashboard de Vendas em Excel
 
+## 📺 Preview
+![Dashboard Final](imagens/final_faturamento.png)
+
+![Dashboard Final](imagens/final_qtd_vendas.png)
+
 ## 📌 Objetivo
 Criar um dashboard interativo para análise de vendas mensais e anuais, permitindo identificar faturamento e quantidade de vendas por produto e vendendor.
 
@@ -27,7 +32,3 @@ O dashboard final permite:
 - Comparação entre produtos
 - Análise de faturamento por forma de pagamento
 - Análise de total de vendas por ano, produto e mês
-
-## 📺 Preview
-![Dashboard Final](imagens/final_faturamento.png)
-![Dashboard Final](imagens/final_qtd_vendas.png)
