@@ -24,3 +24,5 @@ O dashboard final permite:
 - Comparar faturamento entre vendedores e produtos
 - Analisar o melhor vendedor e produto mais vendido
 - Analisar total de vendas por vendedor, produto e mês
+
+## 📺 Preview
