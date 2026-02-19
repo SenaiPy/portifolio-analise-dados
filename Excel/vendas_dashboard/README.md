@@ -26,3 +26,6 @@ O dashboard final permite:
 - Analisar total de vendas por vendedor, produto e mês
 
 ## 📺 Preview
+![faturamento](imagens/final_faturamento.png)
+
+![vendas](imagens/final_qtd_vendas.png)
