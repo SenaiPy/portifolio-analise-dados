@@ -10,6 +10,6 @@ Todos os relacionamentos criados entre as tabelas dimensão e as tabelas fato.
 ![imagem2](passo2.png)
 
 ## Final
-Dashboard final
+Dashboard interativo para análise de faturamento por mês, continente e top 10 Marcas que mais Faturaram. O dashboard também permite analisar o produto mais vendido, quantidade total de vendas e faturamento total. Além disso pode ser aplicado um filtro por ano e tipo de loja (física / online).
 
 ![final](final.png)
